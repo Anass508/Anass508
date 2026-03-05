@@ -1,7 +1,7 @@
 # 👋 Salut, moi c'est Anass Fathi !
 
-###  Étudiant en Informatique & Développeur Passionné
-Basé en France 🇫🇷, je me spécialise dans la résolution de problèmes complexes, de l'algorithmique à la conception de bases de données.
+### Étudiant en BUT Informatique à la Sorbonne Paris Nord
+
 
 ---
 
