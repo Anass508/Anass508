@@ -19,11 +19,6 @@ Basé en France 🇫🇷, je suis passionné par la création d'applications web
 
 ---
 
-### 📈 Mes Stats GitHub
-![Les stats de mon profil GitHub](https://github-readme-stats.vercel.app/api?username=[TON_PSEUDO]&show_icons=true&theme=radical)
-
----
-
 ### 🤝 Me contacter
 * **LinkedIn** : www.linkedin.com/in/anass-fathi-082344391
 * **Email** : anass-fathi1@outlook.fr
