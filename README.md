@@ -4,20 +4,13 @@
 
 ---
 
-### 🛠️ Stack Technique
+### Technique
 
 **Langages & Web**
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
-**Outils & Méthodologies**
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Agile](https://img.shields.io/badge/Agile-Methodology-blue?style=for-the-badge)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
-
----
 
 ### 📂 Projets Phares
 
@@ -32,6 +25,13 @@
 ---
   
 ### 📂 Projets en Cours 
+
+---
+
+###  Objectifs Alternance
+
+j'ambitionne d'intégrer vos équipes pour un contrat de 2 ans débutant en septembre 2026. Mon rythme est de 2 semaines en école / 2 semaines en
+entreprise ce qui me permettra de mettre mes compétences au service de la performance de votre entreprise
 
 ---
 
