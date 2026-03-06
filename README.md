@@ -36,7 +36,7 @@
 
 ###  Objectifs Alternance
 
-`j'ambitionne d'intégrer vos équipes pour un contrat de 2 ans débutant en septembre 2026. Mon rythme est de 2 semaines en école / 2 semaines en
+`J'ambitionne d'intégrer vos équipes pour un contrat de 2 ans débutant en septembre 2026. Mon rythme est de 2 semaines en école / 2 semaines en
 entreprise ce qui me permettra de mettre mes compétences au service de la performance de votre entreprise .`
 
 ---
@@ -44,3 +44,4 @@ entreprise ce qui me permettra de mettre mes compétences au service de la perfo
 ### 🤝 Me contacter
 * **LinkedIn** : [linkedin.com/in/anass-fathi-082344391](https://www.linkedin.com/in/anass-fathi-082344391)
 * **Email** : [anass-fathi1@outlook.fr](mailto:anass-fathi1@outlook.fr)
+* **Localisation** : Île-de-France, France
