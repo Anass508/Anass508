@@ -31,10 +31,12 @@
 ---
 
 ### 📂 Projets en Cours
-
-* **Développement d'une application métier (Java)** : Conception d'une solution logicielle répondant à un besoin utilisateur spécifique, incluant la phase de développement .
 * **Installation et configuration de services réseaux** : Mise en place d'architectures serveurs et gestion de protocoles réseaux .
+  
+* **Développement d'une application métier (Java)** : Conception d'une solution logicielle répondant à un besoin utilisateur spécifique, incluant la phase de développement .
+  
 * **Exploitation et administration de bases de données (SQL)** : Optimisation de requêtes SQL et gestion de la maintenance de bases de données pour assurer l'intégrité et la disponibilité des données.
+
 * **Gestion et organisation de projet en équipe** : Application des méthodes et outils ( `RACI,WBS` ) pour le suivi des tâches et la coordination des livrables .
 
 ---
