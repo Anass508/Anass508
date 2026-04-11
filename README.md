@@ -1,4 +1,4 @@
-# 👋 Anass Fathi 
+#  Anass Fathi 
 
 ### Étudiant en BUT Informatique à la Sorbonne Paris Nord
 
