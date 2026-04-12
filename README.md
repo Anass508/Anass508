@@ -19,6 +19,8 @@
 
 ### 📂 Projets Académique / Personnel
 
+*  **Py-Dirb-Scanner (Python)** : Développement d'un outil d'énumération de répertoires web par force brute avec gestion des User-Agent et timeout pour des tests d'intrusion éthiques.
+
 * **Python-KNN-Choixpeau-Magique-S1.02 (Python)** : Implémentation d'un système de répartition inspiré de l'univers d'Harry Potter en binôme .Système de répartition automatisée d'élèves via l'algorithme des **`k-plus proches voisins (k-NN)`** .
   
 * **Database-Baignade-SAE-S1.04-  (SQL)** : Conception d'une base de données relationnelle pour le rapportage de la qualité des eaux de baignade (Directive 2006/7/CE). Modélisation **`AGL PGmodeler`** et implémentation de requêtes d'analyse complexes.
@@ -31,6 +33,8 @@
   
 * **Recueil-Besoins-IUT-SAE-S1.05 (Analyse)** : Recueil et analyse de besoins sur la réussite étudiante. Conduite d'entretiens, création de *`personas`* et rédaction d'un rapport complet de 58 pages au sein d'une équipe de 8 personnes.
 
+* **Gestion et organisation de projet en équipe** : Application des méthodes et outils ( `RACI,WBS` ) pour le suivi des tâches et la coordination des livrables .
+
 ---
 
 ### 📂 Projets en Cours
@@ -39,8 +43,6 @@
 * **Développement d'une application métier (Java)** : Conception d'une solution logicielle répondant à un besoin utilisateur spécifique, incluant la phase de développement .
   
 * **Exploitation et administration de bases de données (SQL)** : Optimisation de requêtes SQL et gestion de la maintenance de bases de données pour assurer l'intégrité et la disponibilité des données.
-
-* **Gestion et organisation de projet en équipe** : Application des méthodes et outils ( `RACI,WBS` ) pour le suivi des tâches et la coordination des livrables .
 
 ---
 
