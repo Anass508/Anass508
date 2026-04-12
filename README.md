@@ -19,13 +19,13 @@
 
 ### 📂 Projets Académique / Personnel
 
-*  **Py-Dirb-Scanner (Python)** : Développement d'un outil d'énumération de répertoires web par force brute avec gestion des User-Agent et timeout pour des tests d'intrusion éthiques.
+*  **Py-Dirb-Scanner (Python)** : Développement d'un outil d'énumération de répertoires web par force brute avec gestion des User-Agent et timeout pour des tests d'intrusion éthiques.(Personnel)
 
-* **Python-KNN-Choixpeau-Magique-S1.02 (Python)** : Implémentation d'un système de répartition inspiré de l'univers d'Harry Potter en binôme .Système de répartition automatisée d'élèves via l'algorithme des **`k-plus proches voisins (k-NN)`** .
+* **Python-KNN-Choixpeau-Magique-S1.02 (Python)** : Implémentation d'un système de répartition inspiré de l'univers d'Harry Potter (en binôme) .Système de répartition automatisée d'élèves via l'algorithme des **`k-plus proches voisins (k-NN)`** .
   
 * **Database-Baignade-SAE-S1.04-  (SQL)** : Conception d'une base de données relationnelle pour le rapportage de la qualité des eaux de baignade (Directive 2006/7/CE). Modélisation **`AGL PGmodeler`** et implémentation de requêtes d'analyse complexes.
   
-* **Jeux ASCII (C)** : Développement de jeux classiques (Sokoban, Puissance 4) en langage C. Travail approfondi sur la gestion de la mémoire, les structures de données et l'optimisation des performances.
+* **Jeux ASCII (C)** : Développement de jeux classiques (Sokoban, Puissance 4) en langage C. Travail approfondi sur la gestion de la mémoire, les structures de données et l'optimisation des performances. (Personnel)
   
 * **Jeu-Pingouin-JS (JS/Web)** : Jeu interactif Web avec manipulation dynamique du **`DOM`** et gestion d'événements complexes (clavier/souris). Focus sur l'animation CSS et la logique applicative.
   
