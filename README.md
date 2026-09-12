@@ -34,7 +34,7 @@ sur mon temps libre, tels qu’un outil d’analyse de vulnérabilité scannant 
 
 ###  Projets en Cours
 
-* 
+* Un portfolio minimaliste d'inspiration suisse développé avec HTML, CSS et JavaScript, mettant en valeur mes projets UX/UI et web .
   
 * 
 
