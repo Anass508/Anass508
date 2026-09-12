@@ -46,7 +46,7 @@ sur mon temps libre, tels qu’un outil d’analyse de vulnérabilité scannant 
 
 ###  Objectifs Stage
 
-`J'ambitionne d'intégrer vos équipes pour un stage de 8 semaine minimum a 10 ans sur la période 08/02/27 au 18/04/27.`
+`J'ambitionne d'intégrer vos équipes pour un stage de 8 semaines minimum à 10, sur la période du 08/02/27 au 18/04/27. `
 
 ---
 
