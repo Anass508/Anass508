@@ -38,11 +38,10 @@
 ---
 
 ###  Projets en Cours
-* **Installation et configuration de services réseaux** : Mise en place d'architectures serveurs et gestion de protocoles réseaux .
+
+* 
   
-* **Développement d'une application métier (Java)** : Conception d'une solution logicielle répondant à un besoin utilisateur spécifique, incluant la phase de développement .
-  
-* **Exploitation et administration de bases de données (SQL)** : Optimisation de requêtes SQL et gestion de la maintenance de bases de données pour assurer l'intégrité et la disponibilité des données.
+* 
 
 ---
 
