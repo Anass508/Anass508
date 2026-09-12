@@ -17,7 +17,7 @@
 
 ---
 
-### 📂 Projets Académique / Personnel
+###  Projets Académique / Personnel
 
 *  **Py-Dirb-Scanner (Python)** : Développement d'un outil d'énumération de répertoires web par force brute avec gestion des User-Agent et timeout pour des tests d'intrusion éthiques.(Personnel)
 
@@ -37,7 +37,7 @@
 
 ---
 
-### 📂 Projets en Cours
+###  Projets en Cours
 * **Installation et configuration de services réseaux** : Mise en place d'architectures serveurs et gestion de protocoles réseaux .
   
 * **Développement d'une application métier (Java)** : Conception d'une solution logicielle répondant à un besoin utilisateur spécifique, incluant la phase de développement .
@@ -53,7 +53,7 @@ entreprise ce qui me permettra de mettre mes compétences au service de la perfo
 
 ---
 
-### 🤝 Me contacter
+###  Me contacter
 * **LinkedIn** : [linkedin.com/in/anass-fathi-082344391](https://www.linkedin.com/in/anass-fathi-082344391)
 * **Email** : [anass-fathi1@outlook.fr](mailto:anass-fathi1@outlook.fr)
 * **Localisation** : Île-de-France, France
