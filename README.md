@@ -44,10 +44,9 @@ sur mon temps libre, tels qu’un outil d’analyse de vulnérabilité scannant 
 
 ---
 
-###  Objectifs Alternance
+###  Objectifs Stage
 
-`J'ambitionne d'intégrer vos équipes pour un contrat de 2 ans débutant en septembre 2026. Mon rythme est de 2 semaines en école / 2 semaines en
-entreprise ce qui me permettra de mettre mes compétences au service de la performance de votre entreprise .`
+`J'ambitionne d'intégrer vos équipes pour un stage de 8 semaine minimum a 10 ans sur la période 08/02/27 au 18/04/27.`
 
 ---
 
