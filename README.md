@@ -17,21 +17,8 @@
 
 ---
 
-###  Projets Académique / Personnel
+### A Propos de Moi  
 
-*  **Py-Dirb-Scanner (Python)** : Développement d'un outil d'énumération de répertoires web par force brute avec gestion des User-Agent et timeout pour des tests d'intrusion éthiques.(Personnel)
-
-* **Python-KNN-Choixpeau-Magique-S1.02 (Python)** : Implémentation d'un système de répartition inspiré de l'univers d'Harry Potter (en binôme) .Système de répartition automatisée d'élèves via l'algorithme des **`k-plus proches voisins (k-NN)`** .
-  
-* **Database-Baignade-SAE-S1.04-  (SQL)** : Conception d'une base de données relationnelle pour le rapportage de la qualité des eaux de baignade (Directive 2006/7/CE). Modélisation **`AGL PGmodeler`** et implémentation de requêtes d'analyse complexes.
-  
-* **Jeux ASCII (C)** : Développement de jeux classiques (Sokoban, Puissance 4) en langage C. Travail approfondi sur la gestion de la mémoire, les structures de données et l'optimisation des performances. (Personnel)
-    
-* **Mandelbrot-Fractals-SAE-S2.02  (Python)** : Exploration algorithmique de la fractale de l'ensemble de Mandelbrot. Utilisation des nombres complexes et visualisation de données via `matplotlib` pour le rendu graphique de précision.
-
-* **Jeu-Pingouin-JS (JS/Web)** : Jeu interactif Web avec manipulation dynamique du **`DOM`** et gestion d'événements complexes (clavier/souris). Focus sur l'animation CSS et la logique applicative.
-
-* **Gestion et organisation de projet en équipe** : Application des méthodes et outils ( `RACI,WBS` ) pour le suivi des tâches et la coordination des livrables .
 
 ---
 
