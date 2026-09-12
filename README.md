@@ -19,6 +19,14 @@
 
 ### A Propos de Moi  
 
+Je suis actuellement en première année de BUT Informatique à l'université Sorbonne 
+Paris Nord de Villetaneuse. J’aime tous les domaines de l'informatique, mais j’ai trouvé une 
+attention particulière à ceux appliqués à la défense des systèmes d’information, tels que la 
+cybersécurité. C’est par cette passion pour ce domaine que je souhaite intégrer cette sphère et 
+devenir, dans un premier temps, acteur de la cybersécurité, Dans cette optique, je m’auto-instruis sur 
+le sujet, notamment en intégrant plusieurs projets de programmation et d’invention personnelle 
+sur mon temps libre, tels qu’un outil d’analyse de vulnérabilité scannant des sites Internet. De 
+plus, sur mon temps personnel,
 
 ---
 
