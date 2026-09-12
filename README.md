@@ -36,7 +36,11 @@ sur mon temps libre, tels qu’un outil d’analyse de vulnérabilité scannant 
 
 * Un portfolio minimaliste d'inspiration suisse développé avec HTML, CSS et JavaScript, mettant en valeur mes projets UX/UI et web .
   
-* 
+* Suivi de cours pour l'obtention de la certification SOC Level 1 sur TryHackMe.
+
+* Apprentissage des différentes attaques et des processus derrière celles-ci sur PortSwigger afin de pouvoir passer la certification Burp Suite.
+
+* Création d'un logiciel mettant en avant le backend et le front-end.
 
 ---
 
