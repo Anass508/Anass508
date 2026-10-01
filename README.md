@@ -44,12 +44,6 @@ sur mon temps libre, tels qu’un outil d’analyse de vulnérabilité scannant 
 
 ---
 
-###  Objectifs Stage
-
-`J'ambitionne d'intégrer vos équipes pour un stage de 8 semaines minimum à 10, sur la période du 08/02/27 au 18/04/27. `
-
----
-
 ###  Me contacter
 * **LinkedIn** : [linkedin.com/in/anass-fathi-082344391](https://www.linkedin.com/in/anass-fathi-082344391)
 * **Email** : [anass-fathi1@outlook.fr](mailto:anass-fathi1@outlook.fr)
